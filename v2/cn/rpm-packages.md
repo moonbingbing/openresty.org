@@ -110,7 +110,7 @@ https://openresty.gitbooks.io/programming-openresty/content/testing/test-modes.h
 
 这个包提供了 [lemplate](https://metacpan.org/pod/Lemplate) 这个命令行程序，它可以把使用 perl TT2 模板语言语法的模板文件编译成 OpenResty 的独立 Lua 模块。
 
-比如 OpenResty 的官方网站 [openresty.org](https://github.com/openresty/openresty.org) 就使用 Lemplate 作为 HTML 页面的模板编译器。
+比如 OpenResty 的官方网站，`openresty.org`，就[使用](https://github.com/openresty/openresty.org) Lemplate 作为 HTML 页面的模板编译器。
 
 # perl-Test-Nginx
 
